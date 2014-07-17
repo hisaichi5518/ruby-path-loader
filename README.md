@@ -3,7 +3,7 @@
 PathLoader is a lib path loader.
 
 ```ruby
-# file's name is `/path_loader/test.rb`.
+# file's path is `/path_loader/test.rb`.
 require 'path_loader'
 
 # Add `lib` to $LOAD_PATH.
