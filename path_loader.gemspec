@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = PathLoader::VERSION
   spec.authors       = ["hisaichi5518"]
   spec.email         = ["hisaichi5518@gmail.com"]
-  spec.summary       = %q{PathLoader is a rubygems lib path loader.}
-  spec.description   = %q{PathLoader is a rubygems lib path loader.}
+  spec.summary       = %q{PathLoader is a lib path loader.}
+  spec.description   = %q{PathLoader is a lib path loader.}
   spec.homepage      = ""
   spec.license       = "MIT"
 

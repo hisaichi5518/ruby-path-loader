@@ -1,6 +1,6 @@
 # PathLoader
 
-PathLoader is a rubygems lib path loader.
+PathLoader is a lib path loader.
 
 ```ruby
 # file's name is `/path_loader/test.rb`.
