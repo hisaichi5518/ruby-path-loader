@@ -1,6 +1,15 @@
 # PathLoader
 
-TODO: Write a gem description
+```ruby
+# file's name is `/path_loader/test.rb`.
+require 'path_loader'
+
+# Add `lib` to $LOAD_PATH.
+PathLoader.load("lib")
+
+# Add `path_loader/lib` to $LOAD_PATH.
+PathLoader.load_relative("lib")
+```
 
 ## Installation
 
@@ -15,10 +24,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install path_loader
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
