@@ -9,7 +9,7 @@ require 'path_loader'
 # Add `lib` to $LOAD_PATH.
 PathLoader.load("lib")
 
-# Add `path_loader/lib` to $LOAD_PATH.
+# Add `/path_loader/lib` to $LOAD_PATH.
 PathLoader.load_relative("lib")
 ```
 
