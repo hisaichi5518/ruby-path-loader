@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["hisaichi5518@gmail.com"]
   spec.summary       = %q{PathLoader is a lib path loader.}
   spec.description   = %q{PathLoader is a lib path loader.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/hisaichi5518/ruby-path_loader"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
